@@ -1,0 +1,19 @@
+/*
+Site Name: Uni Orthodontic Clinic
+Author: Brainworks
+page: cms
+*/
+
+/* ------------------------------------------------------------------------------------ */
+/* ------------------------------------- Main page ------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+#main h4 {
+	margin-bottom:10px;
+	font-size:0.8em;
+	color:#6CB5D9;
+	line-height:1em;
+}
+
+#main p.date { text-align:right;}
+#main .storycontent p { text-indent:1em;}

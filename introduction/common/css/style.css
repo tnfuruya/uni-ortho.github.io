@@ -1,0 +1,95 @@
+/*
+Site Name: Uni Orthodontic Clinic
+Author: Brainworks
+page: Introduction
+*/
+
+/* ------------------------------------------------------------------------------------ */
+/* -------------------------------------- 1nd page ------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+/* ------------------------ schedule ---------------------- */
+
+#introduction .mainBox { margin-left:25px;}
+
+#introduction .picBox { float:left; display:inline;}
+#introduction .picBox p { margin: 0 15px 0 0;}
+#introduction .textBox p { margin-left:0;}
+
+#introduction .textBox { float:left; display:inline;}
+#introduction .textBox dl { margin-bottom:20px;font-size:0.8em; line-height:1.5;color:#333333;}
+#introduction .textBox dt { clear:left;float:left; display:inline; width:7em; text-align:center;}
+#introduction .textBox dd { margin-left:5px;}
+
+#introduction .textBox p { width:350px;}
+#introduction .textBox p.alert { margin-left:1em;color:#FF6666; text-indent:-1em;}
+#introduction .textBox p.comment { padding:5px;border:solid 1px #C2DAF2;}
+
+/* ------------------------ access ---------------------- */
+
+#introduction.access span.read { font-size:0.8em;}
+#introduction.access span.headTitle { font-size:1.1em; font-weight:bold;}
+#introduction.access ul.address { margin-left:40px;}
+#introduction.access ul.address li a { text-decoration:underline;}
+#introduction #main h5 { margin-bottom:15px;}
+#introduction.access #main h6 {
+	margin: 0 0 15px 38px;
+	padding-left:10px;
+	background:url(../../../common/img/second/h6HeaderBack.gif) no-repeat left 50%;
+}
+#introduction.access p { margin-left:40px;}
+#introduction.access p.alert { color:#FF6666;}
+#introduction.access p a { color:#0066FF;}
+#introduction.access p a:hover { color:#5A9DFF;}
+
+/* ------------------------ exroom ---------------------- */
+
+#introduction.exroom p.leftBox {
+	float:left;
+	display:inline;
+	margin-bottom:20px;
+	padding-right:0;
+	text-align:center;
+	color:#0066FF;
+	font-weight:bold;
+}
+
+*:first-child+html #introduction.exroom p.leftBox {
+	margin-bottom:5px;
+}
+
+#introduction.exroom p.left img {
+	float:left;
+	display:inline;
+	margin: 0 10px 40px 0;
+}
+#introduction.exroom p.right img {
+	float:right;
+	display:inline;
+	margin: 0 0 40px 10px;
+}
+#introduction.exroom p.box02 img {
+	float:left;
+	display:inline;
+	margin: 0 25px 0 0;
+}
+#introduction.exroom p.box03 img {
+	float:left;
+	display:inline;
+	margin: 0 20px 0 0;
+}
+#introduction.exroom p.clear { clear:both;}
+#introduction.exroom p.btm40 { margin-bottom:40px;}
+#introduction.exroom h5 { clear:both;}
+
+#introduction.exroom .box04 img {
+	float:left;
+	display:inline;
+	margin: 0 10px 40px 25px;
+}
+
+#introduction.exroom .box05 img {
+	float:right;
+	display:inline;
+	margin: 0 10px 40px 25px;
+}

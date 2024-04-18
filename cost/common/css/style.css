@@ -1,0 +1,117 @@
+/*
+Site Name: Uni Orthodontic Clinic
+Author: Brainworks
+page: cost
+*/
+
+/* ------------------------------------------------------------------------------------ */
+/* -------------------------------------- 2nd page ------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+/* ------------------------ flow ---------------------- */
+
+#cost.flow h5 { padding-top:0;}
+#cost.flow .center { text-align:center;}
+#cost.flow .btm60 { margin-bottom:60px;}
+
+#cost.flow .btnBox {
+	float:left;
+	display:inline;
+	margin: 0 0 40px 25px;
+}
+#cost.flow .btnBox img { margin-right:5px;}
+
+#cost.flow ol { margin: 0 0 20px 70px;}
+#cost.flow ol li { list-style:decimal;}
+
+#cost.flow span.red { font-size:2em; color:#F00;}
+#cost.flow span.green { color:#090;}
+
+#cost.flow p.pagetopSng {
+	clear:both;
+	margin: 0 0 60px 0;
+	padding:10px 0 0 0;
+	text-align:right;
+	border-top: dashed 1px #2C83D9;
+}
+
+#cost.flow p.pagetopSng a {
+	padding-left:10px;
+	color:#333;
+	font-size:0.8em;
+	background:url(../../../common/img/home/pagetop.gif) no-repeat left 50%;
+}
+
+#cost.flow p.pagetopSng a:hover { color:#666;}
+
+#cost.flow .flowBox01 { margin-left:25px;height:196px;background:url(../img/flow/backPic01.jpg) no-repeat;}
+#cost.flow .flowBox02 { margin-left:25px;height:236px;background:url(../img/flow/backPic02.jpg) no-repeat;}
+#cost.flow .flowBox03 { margin-left:25px;height:186px;background:url(../img/flow/backPic03.jpg) no-repeat;}
+#cost.flow .flowBox04 { margin-left:25px;height:154px;background:url(../img/flow/backPic04.jpg) no-repeat;}
+#cost.flow .flowBox05 { margin-left:25px;height:230px;background:url(../img/flow/backPic05.jpg) no-repeat;}
+#cost.flow .flowBox06 { margin-left:25px;height:370px;background:url(../img/flow/backPic06.jpg) no-repeat;}
+#cost.flow .flowBox07 { margin-left:25px;height:200px;background:url(../img/flow/backPic07.jpg) no-repeat;}
+#cost.flow .flowBox08 { margin-left:25px;height:190px;background:url(../img/flow/backPic08.jpg) no-repeat;}
+#cost.flow .flowBox09 { margin-left:25px;height:342px;background:url(../img/flow/backPic09.jpg) no-repeat;}
+#cost.flow .flowBox10 { margin-left:25px;height:201px;background:url(../img/flow/backPic10.jpg) no-repeat;}
+#cost.flow .flowBox11 { margin-left:25px;height:236px;background:url(../img/flow/backPic11.jpg) no-repeat;}
+#cost.flow .flowBox12 { margin-left:25px;height:188px;background:url(../img/flow/backPic12.jpg) no-repeat;}
+#cost.flow .flowBox13 { margin-left:25px;height:390px;background:url(../img/flow/backPic13.jpg) no-repeat;}
+#cost.flow .flowBox14 { margin-left:25px;height:194px;background:url(../img/flow/backPic14.jpg) no-repeat;}
+#cost.flow .flowBox15 { margin-left:25px;height:161px;background:url(../img/flow/backPic15.jpg) no-repeat;}
+#cost.flow .flowBox16 { margin-left:25px;height:356px;background:url(../img/flow/backPic16.jpg) no-repeat;}
+
+#cost.flow .flowBox01 p {position:relative; top:20px;left:150px;padding-right:0;width:300px;}
+#cost.flow .flowBox02 p {position:relative;	top:20px;left:100px;padding-right:0;width:300px;}
+#cost.flow .flowBox03 p {position:relative;	top:20px;left:150px;padding-right:0;width:300px;}
+#cost.flow .flowBox04 p {position:relative;	top:20px;left:100px;padding-right:0;width:300px;}
+#cost.flow .flowBox05 p {position:relative;	top:20px;left:220px;padding-right:0;width:300px;}
+#cost.flow .flowBox06 p {position:relative;	top:20px;left:100px;padding-right:0;width:300px;}
+#cost.flow .flowBox07 p {position:relative;	top:20px;left:220px;padding-right:0;width:300px;}
+#cost.flow .flowBox08 p {position:relative;	top:20px;left:100px;padding-right:0;width:300px;}
+#cost.flow .flowBox09 p {position:relative;	top:20px;left:220px;padding-right:0;width:300px;}
+#cost.flow .flowBox10 p {position:relative;	top:20px;left:150px;padding-right:0;width:300px;}
+#cost.flow .flowBox11 p {position:relative;	top:20px;left:100px;padding-right:0;width:300px;}
+#cost.flow .flowBox12 p {position:relative;	top:20px;left:150px;padding-right:0;width:300px;}
+#cost.flow .flowBox13 p {position:relative;	top:20px;left:100px;padding-right:0;width:300px;}
+#cost.flow .flowBox14 p {position:relative;	top:20px;left:150px;padding-right:0;width:300px;}
+#cost.flow .flowBox15 p {position:relative;	top:20px;left:100px;padding-right:0;width:300px;}
+#cost.flow .flowBox16 p {position:relative;	top:20px;left:220px;padding-right:0;width:300px;}
+
+/* ------------------------ therapy ---------------------- */
+
+#cost.therapy .blue { color:#246BB2;}
+#cost.therapy .red { color:#F00;}
+#cost.therapy .btm00 { margin-bottom:0;}
+
+#cost.therapy table {
+	margin: 0 0 40px 25px;
+	padding:10px;
+	font-size:0.8em;
+	line-height:1.5;
+	color:#333;
+	border:solid 1px #6CB5D9;
+	border-collapse:collapse;
+}
+
+#cost.therapy .floatRt { display:inline; float:right;}
+#cost.therapy .table01 { width:30em; height:240px;}
+#cost.therapy .table02 { clear:both;}
+#cost.therapy .right { text-align:right;}
+
+#cost.therapy th,
+#cost.therapy td { padding:5px 10px;border:solid 1px #6CB5D9;}
+
+#cost.therapy th { color:#FFF; background-color:#6CB5D9;}
+#cost.therapy th.cat { color:#246BB2; background-color:#FFF;}
+
+#cost.therapy td.brRt { border-right:solid 2px #6CB5D9;}
+#cost.therapy td.brBtm { border-bottom:solid 2px #6CB5D9;}
+#cost.therapy td.wid01 { width:07em;}
+#cost.therapy td.wid02 { width:14em;}
+
+#cost.therapy #main p a { color:#0066FF;}
+#cost.therapy #main p a:hover { color:#5A9DFF;}
+
+#cost.therapy #main ul { margin-left:50px;}
+#cost.therapy #main li { list-style: disc;}

@@ -1,0 +1,358 @@
+/*
+Site Name: Uni Orthodontic Clinic
+Author: Brainworks
+*/
+
+/* ------------------------------------------------------------------------------------ */
+/* ------------------------------------------ base ------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+* { margin:0; padding:0;}
+
+body {
+	font-family: Arial, sans-serif;
+	margin:0; padding:0;
+	font-size:100.01%;
+		letter-spacing: 0;
+
+}
+
+img { vertical-align:bottom; border:none;}
+
+/*firefox etc.*/
+.clearfix:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+/*MacIE WinIE7*/
+.clearfix {
+	display: inline-table;
+	min-height: 1%;
+}
+/* Hides from IE-mac \*/
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+/* End hide from IE-mac */
+
+a { color:#333; text-decoration:none;}
+a:hover{ color:#666;}
+
+/* ------------------------------------------------------------------------------------ */
+/* -------------------------------------- 1nd page ------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+#wrapper {}
+
+/* ------------------------ header ------------------------ */
+
+#header {
+	margin-bottom:10px;
+	padding-top:5px;
+	width:100%;
+	background:url(../img/home/headerBack.jpg) repeat-x bottom;
+}
+
+#headerBox {
+	clear:both;
+	margin:0 auto 0 auto;
+	_margin-bottom:7px;
+	padding: 0;
+	width:950px;
+}
+
+#headerBox p#topRead {
+	margin-bottom:3px;
+	width:950px;
+	font-size:0.8em;
+	color:#333;
+	line-height:1.5;
+}
+
+#headerBox h1 { margin-bottom:10px;float:left; display:inline;}
+/* IE7 change */
+*:first-child+html #headerBox h1 { padding-bottom:6px;}
+
+#headerBox ul { margin-top:20px;float:right; display:inline;}
+#headerBox li {
+	display:inline;
+	padding:0 5px 0 5px;
+	font-size:0.8em;
+	border-right:solid 1px #999;
+}
+#headerBox li.listEnd { border-right:none;}
+
+#headerBox li a { color:#8C8C8C;}
+#headerBox li a:hover { color:#444;}
+
+/* ------------------------ mainPic ------------------------ */
+
+p.contRead {
+	margin:0 auto 7px;
+	width:950px;
+	font-size:1em;
+	font-weight:bold;
+	color:#246BB2;
+}
+
+#mainPic {
+	width:950px;
+	margin:0 auto 0 auto;
+	margin-bottom:20px;
+	height:225px;
+}
+
+/* ------------------------ navi ------------------------ */
+
+#navi { margin:0 auto 22px auto;width:920px;height:122px;}
+
+#navi ul {
+	list-style:none;
+}
+
+#navi li {
+	margin:0;
+	float:left;
+	display:inline;
+	font-size:0.8em;
+	line-height:1.7;
+}
+
+#navi li a {
+	display:block;
+	height:122px;
+	text-indent:-9999px;
+	overflow:hidden;
+	background:url(../img/home/navi.gif) no-repeat;
+}
+
+#navi li#navi01 a { width:157px; background-position:   0px 0px;}
+#navi li#navi02 a { width:158px; background-position:-157px 0px;}
+#navi li#navi03 a { width:158px; background-position:-315px 0px;}
+#navi li#navi04 a { width:158px; background-position:-473px 0px;}
+#navi li#navi05 a { width:158px; background-position:-631px 0px;}
+#navi li#navi06 a { width:131px; background-position:-789px 0px;}
+
+#navi li#navi01 a:hover { background-position:   0px -122px;}
+#navi li#navi02 a:hover { background-position:-157px -122px;}
+#navi li#navi03 a:hover { background-position:-315px -122px;}
+#navi li#navi04 a:hover { background-position:-473px -122px;}
+#navi li#navi05 a:hover { background-position:-631px -122px;}
+#navi li#navi06 a:hover { background-position:-789px -122px;}
+
+/* ------------------------ subnavi ------------------------ */
+
+#subnaviBox { margin:0 auto 25px auto;width:920px;}
+
+/* topicPath */
+
+#subnaviBox p#topicPath {
+	float:left;
+	display:inline;
+	margin:15px 0 0 11px;
+	width:400px;
+	font-size:0.8em;
+}
+
+#subnaviBox p#topicPath a { color:#8C8C8C;}
+#subnaviBox p#topicPath a:hover { color:#444;}
+
+
+#subnavi { float:right; display:inline;	width:438px;height:65px;}
+
+#subnavi ul {
+	width:438px;
+	height:65px;
+	list-style:none;
+}
+
+#subnavi li {
+	margin:0;
+	float:left;
+	display:inline;
+	font-size:0.8em;
+	line-height:1.7;
+}
+
+#subnavi li a {
+	display:block;
+	height:65px;
+	text-indent:-9999px;
+	overflow:hidden;
+	background:url(../img/home/subNavi.gif) no-repeat;
+}
+
+#subnavi li#subnavi01 a { width:90px; background-position:   0px 0px;}
+#subnavi li#subnavi02 a { width:90px; background-position: -90px 0px;}
+#subnavi li#subnavi03 a { width:90px; background-position:-180px 0px;}
+#subnavi li#subnavi04 a { width:90px; background-position:-270px 0px;}
+#subnavi li#subnavi05 a { width:78px; background-position:-360px 0px;}
+
+#subnavi li#subnavi01 a:hover { background-position:   0px -65px;}
+#subnavi li#subnavi02 a:hover { background-position: -90px -65px;}
+#subnavi li#subnavi03 a:hover { background-position:-180px -65px;}
+#subnavi li#subnavi04 a:hover { background-position:-270px -65px;}
+#subnavi li#subnavi05 a:hover { background-position:-360px -65px;}
+
+/* ------------------------ txt link ------------------------ */
+
+#txtLink {
+	clear:both;
+	width:100%;
+	background-color:#B2D8FF;
+	padding: 5px 0 5px 0;
+}
+
+#txtLink ul {
+	margin:0 auto 0 auto;
+	width:950px;
+	list-style:none;
+	text-align: center;
+}
+
+#txtLink li {
+	margin: 0 4px 0 0;
+	padding: 0 4px 0 0;
+	display:inline;
+	font-size:0.7em;
+	line-height:1.7;
+	border-right: solid 1px #333;
+}
+
+#txtLink li.listEnd { border-right:none;}
+
+/* ------------------------ footer ------------------------ */
+
+#footer {
+	width:100%;
+	background-color:#428CD9;
+}
+
+#footerBox {
+	width:950px;
+	margin:0 auto 0 auto;
+	padding:10px 0 20px 0;
+}
+
+#footer #footerBox address {
+	float:left;
+	display:inline;
+	width:300px;
+	font-size:0.8em;
+	font-style:normal;
+	color:#FFF;
+	line-height:1.4;
+}
+
+#footer #footerBox p#copyright {
+	float:right;
+	display:inline;
+	width:300px;
+	font-size:0.7em;
+	text-align:right;
+	color:#FFF;
+}
+
+/* ------------------------ contents ---------------------- */
+
+#contents {
+	clear:both;
+	margin:0 auto 0 auto;
+	padding:0 0 20px 0;
+	width:950px;
+	background-color:#FFFFFF;
+}
+
+#contents p#pagetop {
+	margin:0;
+	width:925px;
+	text-align:right;
+	clear:both;
+}
+
+#contents p#pagetop a {
+	padding-left:10px;
+	color:#333;
+	font-size:0.7em;
+	background:url(../img/home/pagetop.gif) no-repeat left 50%;
+}
+
+#contents p#pagetop a:hover { color:#666;}
+
+/* ------------------------ main ---------------------- */
+
+#main {
+	float:left;
+	display:inline;
+	margin:0 0 40px 25px;
+	padding:0;
+	width:600px;
+}
+
+#main h3 {
+	margin-bottom:20px;
+	padding:5px 0 7px 13px;
+	font-size:0.1em;
+	background:url(../img/home/h3HeaderBack.gif) no-repeat;
+	border-bottom:solid 1px #91C1F2;
+}
+
+*:first-child+html #main h3 { padding:0 0 3px 13px;}
+*:first-child+html #main h3 img { vertical-align: middle;}
+
+#main p {
+	margin-bottom:20px;
+	padding-right: 10px;
+	font-size:0.8em;
+	line-height:1.6;
+	color:#333;
+}
+
+#main p.indent { text-indent:0.8em;}
+
+#main p.btm40 {	margin-bottom:40px;}
+#main p.end {	margin-bottom:60px;}
+
+#main .whatsnew {
+}
+#main .whatsnew ul {
+	margin:0;
+	list-style:none;
+}
+#main .whatsnew li {
+	margin-bottom:8px;
+	padding: 0 0 6px 25px;
+	font-size:0.8em;
+	color:#666;
+	list-style:none;
+	background:url(../img/home/list01.gif) no-repeat 15px 40%;
+	border-bottom: dashed 1px #999;
+}
+#main .whatsnew li a {
+	margin-left:10px;
+	font-size:0.9em;
+	color:#333;
+}
+#main .whatsnew li a:hover { color:#666;}
+
+/* ------------------------ side ------------------------ */
+
+#side {
+	margin:0 25px 0 0;
+	padding:0;
+	width: 250px;
+	float:right;
+	display:inline;
+}
+
+#side p { margin-bottom:25px;}
+
+
+/* ------------------------ home --------------------------- */
+
+
+/* ------------------------------------------------------------------------------------ */
+/* ------------------------------------------ 2nd ------------------------------------- */
+/* ------------------------------------------------------------------------------------ */

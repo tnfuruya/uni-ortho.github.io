@@ -1,0 +1,27 @@
+/*
+Site Name: Uni Orthodontic Clinic
+Author: Brainworks
+page: link
+*/
+
+/* ------------------------------------------------------------------------------------ */
+/* -------------------------------------- 2nd page ------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+/* ------------------------ link ---------------------- */
+
+#link.index #main dl { margin:0 0 40px 40px;font-size:0.8em; line-height:2;}
+
+#link.index #main dt {
+	display:inline;
+	float:left;
+	padding-left:12px;
+	width:12em;
+	clear:both;
+	background:url(../../../common/img/home/list02.gif) no-repeat left 50%;
+}
+
+#link.index #main dd {overflow:hidden;}
+
+#link.index dl a { color:#0066FF; text-decoration:underline;}
+#link.index dl a:hover { color:#5A9DFF;}
