@@ -1,0 +1,106 @@
+/*
+Site Name: Uni Orthodontic Clinic
+Author: Brainworks
+page: feature
+*/
+
+/* ------------------------------------------------------------------------------------ */
+/* -------------------------------------- 2nd page ------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+#feature .red { color:#E3003E;}
+
+/* ------------------------ Outline ---------------------- */
+
+#feature.outline p.picBox { float:left; display:inline;}
+#feature.outline p.picBox img { margin: 0 15px 0 0;}
+#feature.outline p.btn {clear:both; text-align:right;}
+#feature.outline #main p.end { margin-bottom:80px;}
+#feature.outline #main .red { color:#F00;}
+
+/* ------------------------ Cure ------------------------- */
+
+#feature.cure ol {margin: 0 0 40px 38px;}
+#feature.cure ol.cureList li {list-style-type: none;}
+#feature.cure p.cureLink {text-align:right;}
+#feature.cure p a { color:#0066FF;}
+#feature.cure p a:hover { color:#5A9DFF;}
+#feature.cure .red { color:#E3003E;}
+#feature.cure .left { margin-left:38px;}
+#feature.cure .line { padding-bottom:60px;background:url(../img/cure/line01.gif) no-repeat left bottom;}
+#feature.cure .title { margin-bottom:0;font-size:0.8em; color:#666; font-weight:bold;}
+
+#feature.cure #main h6 {
+	margin: 0 0 15px 38px;
+	padding-left:10px;
+	background:url(../../../common/img/second/h6HeaderBack.gif) no-repeat left 50%;
+}
+/* ------------------------ Relation ------------------------- */
+
+#feature.relation ul.relList {margin: 0 0 10px 25px;}
+#feature.relation ul.relList span {margin-left:1.5em;}
+#feature.relation ul.relList span.red {margin-left:0;}
+#feature.relation p.picBox { float:right; display:inline;}
+#feature.relation p.picBox02 { float:left; display:inline;}
+#feature.relation p.clear { clear:both;}
+#feature.relation .end { margin-bottom:60px;}
+
+/* ------------------------ Diagnosis ------------------------- */
+
+#feature.diagnosis p.picBox { float:right; display:inline;}
+#feature.diagnosis p.picBox02 { float:left; display:inline;}
+#feature.diagnosis .end { margin-bottom:60px;}
+#feature.diagnosis .center { text-align:center;}
+#feature.diagnosis .red { color:#E3003E;}
+#feature.diagnosis .blue { color:#007BC7}
+#feature.diagnosis .green { color:#009944;}
+#feature.diagnosis #main h6 {
+	margin: 0 0 15px 38px;
+	padding-left:10px;
+	background:url(../../../common/img/second/h6HeaderBack.gif) no-repeat left 50%;
+}
+#feature.diagnosis .h6ind { margin-left:40px;}
+#feature.diagnosis .textBig { font-size:1.1em; font-weight:bold;}
+#feature.diagnosis ul.relList {margin: 0 0 60px 40px;}
+#feature.diagnosis ul.relList span {margin-left:1.5em;}
+
+/* ------------------------ CT ------------------------- */
+
+#feature.ct p.picBox { float:right; display:inline;}
+#feature.ct p.picBox02 { float:left; display:inline;}
+#feature.ct .end { margin-bottom:60px;}
+#feature.ct .center { text-align:center;}
+#feature.ct .red { color:#E3003E;}
+#feature.ct .blue { color:#007BC7}
+#feature.ct .green { color:#009944;}
+#feature.ct #main h6 {
+	margin: 0 0 15px 38px;
+	padding-left:10px;
+	background:url(../../../common/img/second/h6HeaderBack.gif) no-repeat left 50%;
+}
+#feature.ct .h6ind { margin-left:40px;}
+#feature.ct .textBig { font-size:1.1em; font-weight:bold;}
+#feature.ct ul.relList {margin: 0 0 60px 40px;}
+#feature.ct ul.relList span {margin-left:1.5em;}
+
+/* ------------------------ hide ------------------------- */
+
+#feature.hide p.picBox { float:right; display:inline;}
+#feature.hide p.picBox02 { float:left; display:inline;}
+#feature.hide .end { margin-bottom:60px;}
+#feature.hide .center { text-align:center;}
+#feature.hide ul.relList {margin: 0 0 60px 40px;}
+#feature.hide ul.relList span {margin-left:1.5em;}
+
+/* ------------------------ look ------------------------- */
+
+#feature.look .picBox { float:left; display:inline;}
+#feature.look .picBox02 { float:right; display:inline;}
+#feature.look .picBtm { margin-bottom:20px;padding-bottom:130px;background:url(../img/look/back01.jpg) no-repeat bottom;}
+#feature.look .btm60 { margin-bottom:60px;}
+#feature.look .center { text-align:center;}
+#feature.look .red { color:#E3003E;}
+#feature.look .blue { color:#007BC7}
+#feature.look .green { color:#009944;}
+#feature.look .textBig { font-size:1.1em; font-weight:bold;}
+#feature.look h5 { padding-left:0; background:none;}

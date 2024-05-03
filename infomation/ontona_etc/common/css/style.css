@@ -1,0 +1,16 @@
+/*
+Site Name: Uni Orthodontic Clinic
+Author: Brainworks
+page: infomation
+*/
+
+/* ------------------------------------------------------------------------------------ */
+/* -------------------------------------- 2nd page ------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+/* ------------------------ ontona_etc ---------------------- */
+
+#infomation.ontona_etc #main #ontonaBox { margin-left:40px;}
+#infomation.ontona_etc #main #ontonaBox p.ontonaPic { float:left; display:inline; margin-right:10px;}
+
+#infomation.ontona_etc #main p { margin-left:0;}

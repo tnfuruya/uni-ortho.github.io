@@ -1,0 +1,78 @@
+/*
+Site Name: Uni Orthodontic Clinic
+Author: Brainworks
+page: infomation
+*/
+
+/* ------------------------------------------------------------------------------------ */
+/* -------------------------------------- 2nd page ------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+/* ------------------------ question ---------------------- */
+
+#infomation.question #main .quesBox { margin:0 25px 80px 25px;border:solid 1px #6CB5D9;}
+
+#infomation.question #main .quesBox h5 {
+	margin:0 0 10px 0;
+	padding: 15px 0 0 60px;
+	height:32px;
+	font-size:0.9em;
+	color:#FFF;
+	background:url(../img/question/backPic01.gif) no-repeat 10px 50% #6CB5D9;
+	border-bottom:solid 3px #278DBF;
+}
+
+#infomation.question #main .quesBox p {
+	margin: 0 10px 20px 10px;
+	padding: 0 0 0 50px;
+}
+
+#infomation.question #main .quesBox p.ans {
+	background:url(../img/question/backPic02.gif) no-repeat left 7px;
+}
+
+#infomation.question #main a { color:#0066FF; text-decoration:underline;}
+#infomation.question #main a:hover { color:#5A9DFF;}
+
+#infomation.question #main ul { margin-bottom:60px;}
+#infomation.question #main li {
+	padding-left:12px;
+	line-height:2;
+	background:url(../../../common/img/home/list02.gif) no-repeat left 50%;
+}
+
+#infomation.question #main .gray { color:#666;}
+#infomation.question #main .red { color:#F00;}
+#infomation.question #main p.btm00 { margin-bottom:0;}
+
+/* ------------------------ impression ---------------------- */
+
+#infomation.impression #main .inpBox { margin:0 auto;width:610px;}
+#infomation.impression #main .inpBox img { margin:0 0 55px 35px;}
+
+/* ------------------------ research ---------------------- */
+
+#infomation.research #main h6 {
+	margin-left:38px;
+	padding-left:10px;
+	line-height:1.5;
+	background:url(../../../common/img/home/list02.gif) no-repeat left 0.6em;}
+
+#infomation.research #main h6 a {color:#0066FF; text-decoration:underline;}
+#infomation.research #main h6 a:hover {color:#5A9DFF;}
+
+#infomation.research #main p { margin: 0 0 40px 47px;}
+#infomation.research #main p.end { margin-bottom:80px;}
+
+/* ------------------------ ontona ---------------------- */
+
+#infomation.ontona #main .ontBox { display:inline; float:left; margin:0 55px 0 15px;}
+#infomation.ontona #main .ontBox p {
+	margin-bottom:70px;
+	padding-left:10px;
+	font-weight:bold;
+	line-height:1.4;
+	background: url(../../../common/img/home/list02.gif) no-repeat left 0.8em;
+}
+#infomation.ontona #main .ontBox img { margin-top:9px;}
+#infomation.ontona #main .red { color:#F00;}
