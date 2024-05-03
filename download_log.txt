@@ -1,31 +1,31 @@
-ƒ_ƒEƒ“ƒ[ƒhŠJnF2014/03/31 14:23:08
+ï¿½_ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½hï¿½Jï¿½nï¿½F2014/03/31 14:23:08
 
-œ http://uni-ortho.com ‚©‚ç F:\user\uni\HP\uni-ortho.com ‚Ö
+ï¿½ï¿½ http://uni-ortho.com ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com ï¿½ï¿½
 
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/cms ‚©‚ç F:\user\uni\HP\uni-ortho.com\cms ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/cms ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\cms ï¿½ï¿½
 
-Pp=90.html i"?p=90" ‚©‚ç•ÏXj
-Pp=79.html i"?p=79" ‚©‚ç•ÏXj
-Pp=74.html i"?p=74" ‚©‚ç•ÏXj
-Pp=58.html i"?p=58" ‚©‚ç•ÏXj
-Pp=101.html i"?p=101" ‚©‚ç•ÏXj
-Pcat=3.html i"?cat=3" ‚©‚ç•ÏXj
-Pcat=1.html i"?cat=1" ‚©‚ç•ÏXj
+Pp=90.html ï¿½i"?p=90" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+Pp=79.html ï¿½i"?p=79" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+Pp=74.html ï¿½i"?p=74" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+Pp=58.html ï¿½i"?p=58" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+Pp=101.html ï¿½i"?p=101" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+Pcat=3.html ï¿½i"?cat=3" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+Pcat=1.html ï¿½i"?cat=1" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/cost ‚©‚ç F:\user\uni\HP\uni-ortho.com\cost ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/cost ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\cost ï¿½ï¿½
 
 index02.html
-index[1].html i"index.html" ‚©‚ç•ÏXj
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"index.html" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/ctpicture ‚©‚ç F:\user\uni\HP\uni-ortho.com\ctpicture ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/ctpicture ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\ctpicture ï¿½ï¿½
 
-index[1].html i"index.html" ‚©‚ç•ÏXj
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"index.html" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/feature ‚©‚ç F:\user\uni\HP\uni-ortho.com\feature ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/feature ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\feature ï¿½ï¿½
 
 index07.html
 index06.html
@@ -33,18 +33,18 @@ index05.html
 index04.html
 index03.html
 index02.html
-index[1].html i"index.html" ‚©‚ç•ÏXj
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"index.html" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/infomation ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation ï¿½ï¿½
 
 index04.html
 index03.html
 index02.html
-index[1].html i"index.html" ‚©‚ç•ÏXj
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"index.html" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/infomation/ontona_etc ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc ï¿½ï¿½
 
 index20.html
 index19.html
@@ -67,35 +67,35 @@ index03.html
 index02.html
 index.html
 
-œ http://uni-ortho.com/introduction ‚©‚ç F:\user\uni\HP\uni-ortho.com\introduction ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/introduction ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\introduction ï¿½ï¿½
 
 index04.html
 index03.html
 index02.html
-index[1].html i"index.html" ‚©‚ç•ÏXj
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"index.html" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/link ‚©‚ç F:\user\uni\HP\uni-ortho.com\link ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/link ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\link ï¿½ï¿½
 
-index[1].html i"index.html" ‚©‚ç•ÏXj
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"index.html" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/policy ‚©‚ç F:\user\uni\HP\uni-ortho.com\policy ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/policy ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\policy ï¿½ï¿½
 
-index[1].html i"index.html" ‚©‚ç•ÏXj
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"index.html" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/sitemap ‚©‚ç F:\user\uni\HP\uni-ortho.com\sitemap ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/sitemap ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\sitemap ï¿½ï¿½
 
-index[1].html i"index.html" ‚©‚ç•ÏXj
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"index.html" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/treatment ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment ï¿½ï¿½
 
-index[1].html i"index.html" ‚©‚ç•ÏXj
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"index.html" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/treatment/end ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\end ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/end ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\end ï¿½ï¿½
 
 index08.html
 index07.html
@@ -104,33 +104,33 @@ index05.html
 index04.html
 index03.html
 index02.html
-index[1].html i"index.html" ‚©‚ç•ÏXj
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"index.html" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/treatment/start ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\start ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/start ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\start ï¿½ï¿½
 
 index06.html
 index05.html
 index04.html
 index03.html
 index02.html
-index[1].html i"index.html" ‚©‚ç•ÏXj
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"index.html" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/treatment/surgery ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\surgery ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/surgery ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\surgery ï¿½ï¿½
 
 index04.html
 index03.html
 index02.html
-index[1].html i"index.html" ‚©‚ç•ÏXj
-index.html i"[default]" ‚©‚ç•ÏXj
+index.html ï¿½i"index.html" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
+index.html ï¿½i"[default]" ï¿½ï¿½ï¿½ï¿½ÏXï¿½j
 
-œ http://uni-ortho.com/cms/wp-content/uploads/2010/05 ‚©‚ç F:\user\uni\HP\uni-ortho.com\cms\wp-content\uploads\2010\05 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/cms/wp-content/uploads/2010/05 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\cms\wp-content\uploads\2010\05 ï¿½ï¿½
 
 e9178d090d2b2dffefd5e6907b36a006-76x300.jpg
 5a465574ec739127e1e41e7efd6b7a462-300x270.jpg
 
-œ http://uni-ortho.com/treatment/surgery/common/img/surgery02 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\surgery\common\img\surgery02 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/surgery/common/img/surgery02 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\surgery\common\img\surgery02 ï¿½ï¿½
 
 preOpe_Echizen_3019.jpg
 postOpe_Echizen_3019.jpg
@@ -142,7 +142,7 @@ deb_Echizen_3019.jpg
 DBS_Echizen_3019.jpg
 A_Echizen_3019.jpg
 
-œ http://uni-ortho.com/treatment/end/common/img/end03 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end03 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/end/common/img/end03 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end03 ï¿½ï¿½
 
 pic04.jpg
 pic03.jpg
@@ -154,7 +154,7 @@ Exp_Kudoh_Yuko3762.jpg
 deb_Kudoh_Yuko3762.jpg
 A_Kudoh_Yuko3762.jpg
 
-œ http://uni-ortho.com/treatment/start/common/img/start03 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\start\common\img\start03 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/start/common/img/start03 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\start\common\img\start03 ï¿½ï¿½
 
 pic13.jpg
 pic12.jpg
@@ -176,7 +176,7 @@ DBS_Ueno_Naoto_3433.jpg
 B_Ueno_Naoto_3433.jpg
 A_Ueno_Naoto_3433.jpg
 
-œ http://uni-ortho.com/treatment/start/common/img/start01 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\start\common\img\start01 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/start/common/img/start01 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\start\common\img\start01 ï¿½ï¿½
 
 pic15.jpg
 pic14.jpg
@@ -203,7 +203,7 @@ B_2683Hirokawa.jpg
 A2683Hirokawa.jpg
 A_Yamatsuta_Jun3161.jpg
 
-œ http://uni-ortho.com/treatment/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\common\img ï¿½ï¿½
 
 h6Header03.gif
 h6Header02.gif
@@ -215,7 +215,7 @@ h4Header.gif
 h3Header.gif
 arrow.gif
 
-œ http://uni-ortho.com/feature/common/img/look ‚©‚ç F:\user\uni\HP\uni-ortho.com\feature\common\img\look ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/feature/common/img/look ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\feature\common\img\look ï¿½ï¿½
 
 pic08.jpg
 pic07.jpg
@@ -235,13 +235,13 @@ h5Header01.jpg
 h4Header.gif
 back01.jpg
 
-œ http://uni-ortho.com/infomation/common/img/question ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\common\img\question ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/common/img/question ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\common\img\question ï¿½ï¿½
 
 h4Header01.gif
 backPic02.gif
 backPic01.gif
 
-œ http://uni-ortho.com/cost/common/img/flow ‚©‚ç F:\user\uni\HP\uni-ortho.com\cost\common\img\flow ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/cost/common/img/flow ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\cost\common\img\flow ï¿½ï¿½
 
 pic01.gif
 h5Header03.gif
@@ -268,13 +268,13 @@ backPic03.jpg
 backPic02.jpg
 backPic01.jpg
 
-œ http://uni-ortho.com/common/css ‚©‚ç F:\user\uni\HP\uni-ortho.com\common\css ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/common/css ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\common\css ï¿½ï¿½
 
 second.css
 cms.css
 base.css
 
-œ http://uni-ortho.com/feature/common/img/outline ‚©‚ç F:\user\uni\HP\uni-ortho.com\feature\common\img\outline ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/feature/common/img/outline ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\feature\common\img\outline ï¿½ï¿½
 
 pic106.jpg
 pic105.jpg
@@ -296,14 +296,14 @@ btn103.gif
 btn102.gif
 btn101.gif
 
-œ http://uni-ortho.com/introduction/common/img/schedule ‚©‚ç F:\user\uni\HP\uni-ortho.com\introduction\common\img\schedule ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/introduction/common/img/schedule ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\introduction\common\img\schedule ï¿½ï¿½
 
 schedule.gif
 pic01.jpg
 h4Header.gif
 fredial.gif
 
-œ http://uni-ortho.com/common/img/second ‚©‚ç F:\user\uni\HP\uni-ortho.com\common\img\second ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/common/img/second ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\common\img\second ï¿½ï¿½
 
 sideH3Header.gif
 sideBn07.jpg
@@ -317,7 +317,7 @@ h6HeaderBack.gif
 h5HeaderBack.gif
 h2Header.jpg
 
-œ http://uni-ortho.com/link/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\link\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/link/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\link\common\img ï¿½ï¿½
 
 h5Header04.gif
 h5Header03.gif
@@ -326,11 +326,11 @@ h5Header01.gif
 h4Header.gif
 h3Header.gif
 
-œ http://uni-ortho.com/sitemap/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\sitemap\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/sitemap/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\sitemap\common\img ï¿½ï¿½
 
 h3Header.gif
 
-œ http://uni-ortho.com/policy/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\policy\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/policy/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\policy\common\img ï¿½ï¿½
 
 h5Header04.gif
 h5Header03.gif
@@ -343,27 +343,27 @@ h4Header02.gif
 h4Header01.gif
 h3Header.gif
 
-œ http://uni-ortho.com/introduction/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\introduction\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/introduction/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\introduction\common\img ï¿½ï¿½
 
 h3Header.gif
 
-œ http://uni-ortho.com/feature/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\feature\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/feature/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\feature\common\img ï¿½ï¿½
 
 h3Header.gif
 
-œ http://uni-ortho.com/cost/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\cost\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/cost/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\cost\common\img ï¿½ï¿½
 
 h3Header.gif
 
-œ http://uni-ortho.com/infomation/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\common\img ï¿½ï¿½
 
 h3Header.gif
 
-œ http://uni-ortho.com/cms/common/img/column ‚©‚ç F:\user\uni\HP\uni-ortho.com\cms\common\img\column ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/cms/common/img/column ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\cms\common\img\column ï¿½ï¿½
 
 h3Header.gif
 
-œ http://uni-ortho.com/ctpicture/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\ctpicture\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/ctpicture/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\ctpicture\common\img ï¿½ï¿½
 
 h6Header05.gif
 h6Header04.gif
@@ -374,11 +374,11 @@ h5Header01.gif
 h4Header01.gif
 h3Header.gif
 
-œ http://uni-ortho.com/cms/common/img/whatsnew ‚©‚ç F:\user\uni\HP\uni-ortho.com\cms\common\img\whatsnew ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/cms/common/img/whatsnew ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\cms\common\img\whatsnew ï¿½ï¿½
 
 h3Header.gif
 
-œ http://uni-ortho.com/common/img/home ‚©‚ç F:\user\uni\HP\uni-ortho.com\common\img\home ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/common/img/home ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\common\img\home ï¿½ï¿½
 
 subNavi.gif
 sideBnTime2.gif
@@ -400,7 +400,7 @@ h3HeaderBack.gif
 h3Header02.gif
 h3Header01.gif
 
-œ http://uni-ortho.com/introduction/common/img/greeting ‚©‚ç F:\user\uni\HP\uni-ortho.com\introduction\common\img\greeting ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/introduction/common/img/greeting ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\introduction\common\img\greeting ï¿½ï¿½
 
 pic03.jpg
 pic02.jpg
@@ -411,7 +411,7 @@ h5Header02.gif
 h5Header01.gif
 h4Header.gif
 
-œ http://uni-ortho.com/feature/common/img/cure ‚©‚ç F:\user\uni\HP\uni-ortho.com\feature\common\img\cure ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/feature/common/img/cure ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\feature\common\img\cure ï¿½ï¿½
 
 pic13.jpg
 pic12.jpg
@@ -433,7 +433,7 @@ h5Header02.gif
 h5Header01.gif
 h4Header.gif
 
-œ http://uni-ortho.com/feature/common/img/ct ‚©‚ç F:\user\uni\HP\uni-ortho.com\feature\common\img\ct ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/feature/common/img/ct ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\feature\common\img\ct ï¿½ï¿½
 
 pic14.jpg
 pic13.jpg
@@ -458,7 +458,7 @@ h6Header01.gif
 h5Header01.gif
 h4Header.gif
 
-œ http://uni-ortho.com/feature/common/img/diagnosis ‚©‚ç F:\user\uni\HP\uni-ortho.com\feature\common\img\diagnosis ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/feature/common/img/diagnosis ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\feature\common\img\diagnosis ï¿½ï¿½
 
 pic04.jpg
 pic03.jpg
@@ -468,7 +468,7 @@ h5Header02.gif
 h5Header01.gif
 h4Header.gif
 
-œ http://uni-ortho.com/feature/common/img/relation ‚©‚ç F:\user\uni\HP\uni-ortho.com\feature\common\img\relation ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/feature/common/img/relation ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\feature\common\img\relation ï¿½ï¿½
 
 pic03.jpg
 pic02.jpg
@@ -476,7 +476,7 @@ pic01.jpg
 h5Header01.gif
 h4Header.gif
 
-œ http://uni-ortho.com/feature/common/img/hide ‚©‚ç F:\user\uni\HP\uni-ortho.com\feature\common\img\hide ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/feature/common/img/hide ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\feature\common\img\hide ï¿½ï¿½
 
 pic06.jpg
 pic05.jpg
@@ -488,7 +488,7 @@ h5Header02.gif
 h5Header01.gif
 h4Header.gif
 
-œ http://uni-ortho.com/introduction/common/img/access ‚©‚ç F:\user\uni\HP\uni-ortho.com\introduction\common\img\access ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/introduction/common/img/access ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\introduction\common\img\access ï¿½ï¿½
 
 map02.gif
 map01.gif
@@ -503,7 +503,7 @@ h5Header02.gif
 h5Header01.gif
 h4Header.gif
 
-œ http://uni-ortho.com/introduction/common/img/exroom ‚©‚ç F:\user\uni\HP\uni-ortho.com\introduction\common\img\exroom ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/introduction/common/img/exroom ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\introduction\common\img\exroom ï¿½ï¿½
 
 pic19.jpg
 pic18.jpg
@@ -534,23 +534,23 @@ h5Header02.gif
 h5Header01.gif
 h4Header.gif
 
-œ http://uni-ortho.com/treatment/start/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\start\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/start/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\start\common\img ï¿½ï¿½
 
 h4Header.gif
 
-œ http://uni-ortho.com/treatment/end/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\end\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/end/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\end\common\img ï¿½ï¿½
 
 h4Header.gif
 
-œ http://uni-ortho.com/treatment/surgery/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\surgery\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/surgery/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\surgery\common\img ï¿½ï¿½
 
 h4Header.gif
 
-œ http://uni-ortho.com/infomation/common/img/research ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\common\img\research ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/common/img/research ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\common\img\research ï¿½ï¿½
 
 h4Header.gif
 
-œ http://uni-ortho.com/infomation/common/img/ontona ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\common\img\ontona ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/common/img/ontona ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\common\img\ontona ï¿½ï¿½
 
 pic20.jpg
 pic19.jpg
@@ -575,7 +575,7 @@ pic01.jpg
 h5Header.gif
 h4Header.gif
 
-œ http://uni-ortho.com/infomation/common/img/impression ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\common\img\impression ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/common/img/impression ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\common\img\impression ï¿½ï¿½
 
 pic17.jpg
 pic16.jpg
@@ -594,108 +594,108 @@ pic03.jpg
 pic01.jpg
 h4Header01.gif
 
-œ http://uni-ortho.com/cost/common/img/therapy ‚©‚ç F:\user\uni\HP\uni-ortho.com\cost\common\img\therapy ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/cost/common/img/therapy ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\cost\common\img\therapy ï¿½ï¿½
 
 pic01.jpg
 h4Header01.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona01 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona01 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona01 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona01 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona02 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona02 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona02 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona02 ï¿½ï¿½
 
 pic01.gif
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona03 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona03 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona03 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona03 ï¿½ï¿½
 
 pic01.gif
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona04 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona04 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona04 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona04 ï¿½ï¿½
 
 pic01.gif
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona05 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona05 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona05 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona05 ï¿½ï¿½
 
 pic01.gif
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona06 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona06 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona06 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona06 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona07 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona07 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona07 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona07 ï¿½ï¿½
 
 pic01.gif
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona08 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona08 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona08 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona08 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona09 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona09 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona09 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona09 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona10 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona10 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona10 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona10 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona11 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona11 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona11 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona11 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona12 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona12 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona12 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona12 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona13 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona13 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona13 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona13 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona14 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona14 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona14 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona14 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona15 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona15 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona15 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona15 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona16 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona16 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona16 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona16 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona17 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona17 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona17 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona17 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona18 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona18 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona18 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona18 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona19 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona19 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona19 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona19 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona20 ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona20 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img/ontona20 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img\ontona20 ï¿½ï¿½
 
 h5Header.gif
 
-œ http://uni-ortho.com/common/js ‚©‚ç F:\user\uni\HP\uni-ortho.com\common\js ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/common/js ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\common\js ï¿½ï¿½
 
 smoothscroll.js
 rollover.js
 jquery-1.3.2.min.js
 jquery.cross-slide.js
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/img ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/img ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\img ï¿½ï¿½
 
 ontona_pic.gif
 
-œ http://uni-ortho.com/infomation/common/pdf ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\common\pdf ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/common/pdf ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\common\pdf ï¿½ï¿½
 
 pdf17.pdf
 pdf16.pdf
@@ -713,14 +713,14 @@ pdf04.pdf
 pdf03.pdf
 pdf01.pdf
 
-œ http://uni-ortho.com/treatment/end/common/img/end01 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end01 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/end/common/img/end01 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end01 ï¿½ï¿½
 
 pic04.jpg
 pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/surgery/common/img/surgery01 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\surgery\common\img\surgery01 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/surgery/common/img/surgery01 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\surgery\common\img\surgery01 ï¿½ï¿½
 
 pic06.jpg
 pic05.jpg
@@ -729,7 +729,7 @@ pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/start/common/img/start02 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\start\common\img\start02 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/start/common/img/start02 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\start\common\img\start02 ï¿½ï¿½
 
 pic18.jpg
 pic17.jpg
@@ -750,13 +750,13 @@ pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/start/common/img/start04 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\start\common\img\start04 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/start/common/img/start04 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\start\common\img\start04 ï¿½ï¿½
 
 pic02_3.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/start/common/img/start05 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\start\common\img\start05 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/start/common/img/start05 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\start\common\img\start05 ï¿½ï¿½
 
 pic05.jpg
 pic04.jpg
@@ -764,14 +764,14 @@ pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/start/common/img/start06 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\start\common\img\start06 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/start/common/img/start06 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\start\common\img\start06 ï¿½ï¿½
 
 pic04.jpg
 pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/end/common/img/end02 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end02 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/end/common/img/end02 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end02 ï¿½ï¿½
 
 pic07.jpg
 pic06.jpg
@@ -781,7 +781,7 @@ pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/end/common/img/end04 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end04 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/end/common/img/end04 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end04 ï¿½ï¿½
 
 pic07.jpg
 pic06.jpg
@@ -791,14 +791,14 @@ pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/end/common/img/end05 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end05 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/end/common/img/end05 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end05 ï¿½ï¿½
 
 pic04.jpg
 pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/end/common/img/end06 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end06 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/end/common/img/end06 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end06 ï¿½ï¿½
 
 pic05.jpg
 pic04.jpg
@@ -806,7 +806,7 @@ pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/end/common/img/end07 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end07 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/end/common/img/end07 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end07 ï¿½ï¿½
 
 pic05.jpg
 pic04.jpg
@@ -814,13 +814,13 @@ pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/end/common/img/end08 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end08 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/end/common/img/end08 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\end\common\img\end08 ï¿½ï¿½
 
 pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/surgery/common/img/surgery03 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\surgery\common\img\surgery03 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/surgery/common/img/surgery03 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\surgery\common\img\surgery03 ï¿½ï¿½
 
 pic07.jpg
 pic06.jpg
@@ -830,7 +830,7 @@ pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/treatment/surgery/common/img/surgery04 ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\surgery\common\img\surgery04 ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/surgery/common/img/surgery04 ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\surgery\common\img\surgery04 ï¿½ï¿½
 
 pic06.jpg
 pic05.jpg
@@ -839,48 +839,48 @@ pic03.jpg
 pic02.jpg
 pic01.jpg
 
-œ http://uni-ortho.com/link/common/css ‚©‚ç F:\user\uni\HP\uni-ortho.com\link\common\css ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/link/common/css ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\link\common\css ï¿½ï¿½
 
 style.css
 
-œ http://uni-ortho.com/sitemap/common/css ‚©‚ç F:\user\uni\HP\uni-ortho.com\sitemap\common\css ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/sitemap/common/css ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\sitemap\common\css ï¿½ï¿½
 
 style.css
 
-œ http://uni-ortho.com/policy/common/css ‚©‚ç F:\user\uni\HP\uni-ortho.com\policy\common\css ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/policy/common/css ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\policy\common\css ï¿½ï¿½
 
 style.css
 
-œ http://uni-ortho.com/feature/common/css ‚©‚ç F:\user\uni\HP\uni-ortho.com\feature\common\css ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/feature/common/css ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\feature\common\css ï¿½ï¿½
 
 style.css
 
-œ http://uni-ortho.com/treatment/common/css ‚©‚ç F:\user\uni\HP\uni-ortho.com\treatment\common\css ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/treatment/common/css ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\treatment\common\css ï¿½ï¿½
 
 style.css
 
-œ http://uni-ortho.com/cost/common/css ‚©‚ç F:\user\uni\HP\uni-ortho.com\cost\common\css ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/cost/common/css ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\cost\common\css ï¿½ï¿½
 
 style.css
 
-œ http://uni-ortho.com/infomation/common/css ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\common\css ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/common/css ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\common\css ï¿½ï¿½
 
 style.css
 
-œ http://uni-ortho.com/ctpicture/common/css ‚©‚ç F:\user\uni\HP\uni-ortho.com\ctpicture\common\css ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/ctpicture/common/css ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\ctpicture\common\css ï¿½ï¿½
 
 style.css
 
-œ http://uni-ortho.com/introduction/common/css ‚©‚ç F:\user\uni\HP\uni-ortho.com\introduction\common\css ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/introduction/common/css ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\introduction\common\css ï¿½ï¿½
 
 style.css
 
-œ http://uni-ortho.com/infomation/ontona_etc/common/css ‚©‚ç F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\css ‚Ö
+ï¿½ï¿½ http://uni-ortho.com/infomation/ontona_etc/common/css ï¿½ï¿½ï¿½ï¿½ F:\user\uni\HP\uni-ortho.com\infomation\ontona_etc\common\css ï¿½ï¿½
 
 style.css
 
-ƒ_ƒEƒ“ƒ[ƒhŠ®—¹F2014/03/31 14:24:24
+ï¿½_ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½F2014/03/31 14:24:24
 
-ƒ_ƒEƒ“ƒ[ƒh—\’è”F576
-ƒ_ƒEƒ“ƒ[ƒh‘”F576
-ƒGƒ‰[‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B
+ï¿½_ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½hï¿½\ï¿½è”ï¿½F576
+ï¿½_ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½F576
+ï¿½Gï¿½ï¿½ï¿½[ï¿½Í‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B
