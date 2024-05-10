@@ -1,0 +1,27 @@
+/*
+Site Name: Uni Orthodontic Clinic
+Author: Medical Works
+page: contact
+*/
+
+/* ------------------------------------------------------------------------------------ */
+/* -------------------------------------- 2nd page ------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+/* ------------------------ contact ---------------------- */
+
+#contact.index #main dl { margin:0 0 40px 40px;font-size:0.8em; line-height:2;}
+
+#contact.index #main dt {
+	display:inline;
+	float:left;
+	padding-left:12px;
+	width:12em;
+	clear:both;
+	background:url(../../../common/img/home/list02.gif) no-repeat left 50%;
+}
+
+#contact.index #main dd {overflow:hidden;}
+
+#contact.index dl a { color:#0066FF; text-decoration:underline;}
+#contact.index dl a:hover { color:#5A9DFF;}
