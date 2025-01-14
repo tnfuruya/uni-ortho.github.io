@@ -8,6 +8,9 @@ Author: Medical Works
 /* ------------------------------------------------------------------------------------ */
 
 * { margin:0; padding:0;}
+#wrapper #contents p {
+}
+
 
 body {
 	font-family: Arial, sans-serif;
@@ -305,13 +308,14 @@ p.contRead {
 #main p {
 	margin-bottom:20px;
 	padding-right: 10px;
-	font-size:0.8em;
+	font-size:1.0 em;
 	line-height:1.6;
 	color:#333;
 }
 
 #main p.indent { text-indent:0.8em;}
 
+#main p.btm20 {	margin-bottom:20px;}
 #main p.btm40 {	margin-bottom:40px;}
 #main p.end {	margin-bottom:60px;}
 

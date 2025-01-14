@@ -52,17 +52,47 @@ page: infomation
 
 /* ------------------------ research ---------------------- */
 
+
+#infomation.research #main h5 {
+	margin-left:38px;
+	padding-left:10px;
+	font-size:0.9em;
+	line-height:1.5;
+	}
+
 #infomation.research #main h6 {
 	margin-left:38px;
 	padding-left:10px;
+	font-size:0.8em;
 	line-height:1.5;
-	background:url(../../../common/img/home/list02.gif) no-repeat left 0.6em;}
+	text-align:left;
+	background:url(../../../common/img/home/list02.gif) no-repeat left 0.6em;
+	}
 
 #infomation.research #main h6 a {color:#0066FF; text-decoration:underline;}
 #infomation.research #main h6 a:hover {color:#5A9DFF;}
 
-#infomation.research #main p { margin: 0 0 40px 47px;}
-#infomation.research #main p.end { margin-bottom:80px;}
+/* #infomation.research #main p { margin: 0 0 47px 47px; text-indent: 1em;} */
+#infomation.research #main p { margin: 0 0 0 40;   padding-left: 3em;　text-indent: 0em; font-size:0.8em; text-align:left;}
+#infomation.research #main p.end { margin-bottom:5px;}
+
+#infomation.research #main .table {
+	display: table;
+	width: 98%;
+	border-collapse: collapse; 	/* セルの枠線を重ねる */
+	margin-bottom: 0px;
+	}
+#infomation.research #main .row {
+	display: table-row;
+	}
+#infomation.research #main .cell {
+	display: table-cell;
+	padding: 2px;
+	border: solid 1px #ddd;
+ 	vertical-align: middle;
+ 	horizontal-align: left;
+	text-align: center; 
+	}
 
 /* ------------------------ ontona ---------------------- */
 
